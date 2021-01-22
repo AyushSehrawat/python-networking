@@ -10,4 +10,4 @@ python -m pip install -r requirements.txt
 ```bash
 py -m pip install -r requirements.txt
 ```
-Depending on your operating system  , do anyone.
+Depending on your operating system  , do any one.
