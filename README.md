@@ -1,3 +1,4 @@
+![Python-Versions](https://img.shields.io/badge/python-3.8.7-blue?style=flat-square)
 # Python Networking Scripts
 
 This repo includes some scripts related to networking  - port scanner , vulnerability scanner and also ssh bruteforce .
